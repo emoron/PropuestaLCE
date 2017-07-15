@@ -15,3 +15,5 @@ El archivo reporte.sh reune los histogramas generados en un archivo png llamado 
 * Es necesario recibir los csv desde la direccion de Google Docs donde se encuentran publicados, descargar las hojas del libro correspondiente y convertirlas a CSV por cada ponente.
 
 * Realizar el histograma con  la hoja de  datos originales basada en enteros.
+
+* Utilizar csvtools para renombrar los directorios con el nombre del ponente
