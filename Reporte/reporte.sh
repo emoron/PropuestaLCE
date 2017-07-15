@@ -1,4 +1,5 @@
 #!/bin/bash
+#csvcut -c 2 ponentes.csv | while read i; $j = 0; do echo "mv $j i"; $j++;  done
 
 #montage *.png -tile 3x4 grafica.png
 
