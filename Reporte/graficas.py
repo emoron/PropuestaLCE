@@ -1,4 +1,5 @@
 #encoding='utf-8'
+# Es necesario reiniciar el sys antes de llamar a setdefault
 
 from ggplot import *
 import pandas as pd
